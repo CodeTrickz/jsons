@@ -1,0 +1,584 @@
+[
+    {
+        "ID": 1,
+        "word": "Asymmetrische Encryptie",
+        "description": "Een vorm van encryptie waarbij twee verschillende sleutels worden gebruikt: een publieke sleutel voor versleuteling en een private sleutel voor ontsleuteling.",
+        "class": "software"
+    },
+    {
+        "ID": 2,
+        "word": "Symmetrische Encryptie",
+        "description": "Een vorm van encryptie waarbij dezelfde sleutel wordt gebruikt voor zowel versleuteling als ontsleuteling.",
+        "class": "software"
+    },
+    {
+        "ID": 3,
+        "word": "Cryptografie",
+        "description": "De wetenschap en techniek van het beveiligen van communicatie en gegevens door middel van codering.",
+        "class": "process"
+    },
+    {
+        "ID": 4,
+        "word": "Malware",
+        "description": "Kwalijke software ontworpen om schade aan te richten op computersystemen of netwerken.",
+        "class": "malware"
+    },
+    {
+        "ID": 5,
+        "word": "Deny-All Policy",
+        "description": "Een beveiligingsbeleid dat standaard toegang weigert aan alle gebruikers, tenzij expliciet toegestaan.",
+        "class": "policy"
+    },
+    {
+        "ID": 6,
+        "word": "SIEM (Security Information and Event Management)",
+        "description": "Een technologie die beveiligingsinformatie en gebeurtenissen in realtime verzamelt, analyseert en rapporteert voor bedreigingsdetectie en incidentrespons.",
+        "class": "software"
+    },
+    {
+        "ID": 7,
+        "word": "SOC (Security Operations Center)",
+        "description": "Een centrale eenheid die verantwoordelijk is voor het monitoren en analyseren van de beveiligingsstatus van een organisatie.",
+        "class": "team"
+    },
+    {
+        "ID": 8,
+        "word": "IDR (Incident Detection and Response)",
+        "description": "De processen en technologieën die zijn ontworpen om beveiligingsincidenten te detecteren en erop te reageren.",
+        "class": "process"
+    },
+    {
+        "ID": 9,
+        "word": "IPS (Intrusion Prevention System)",
+        "description": "Een beveiligingssysteem dat netwerkinbraak probeert te voorkomen door verdachte activiteiten in realtime te detecteren en te blokkeren.",
+        "class": "security measure"
+    },
+    {
+        "ID": 10,
+        "word": "XDR (Extended Detection and Response)",
+        "description": "Een beveiligingsoplossing die meerdere datapunten (zoals endpoints, netwerken en servers) integreert voor een uitgebreidere detectie en respons op dreigingen.",
+        "class": "software"
+    },
+    {
+        "ID": 11,
+        "word": "Stuxnet",
+        "description": "Een worm die specifiek was ontworpen om industriële controle systemen aan te vallen, vooral in nucleaire installaties.",
+        "class": "malware"
+    },
+    {
+        "ID": 12,
+        "word": "Exploits",
+        "description": "Kwalijke software of technieken die kwetsbaarheden in systemen of netwerken misbruiken.",
+        "class": "attack"
+    },
+    {
+        "ID": 13,
+        "word": "CVE (Common Vulnerabilities and Exposures)",
+        "description": "Een openbare database van bekende kwetsbaarheden in software en systemen.",
+        "class": "database"
+    },
+    {
+        "ID": 14,
+        "word": "Metasploit",
+        "description": "Een open-source framework voor het ontwikkelen en uitvoeren van exploits tegen een kwetsbaarheid.",
+        "class": "software"
+    },
+    {
+        "ID": 15,
+        "word": "DNSchef",
+        "description": "Een DNS-proxy die wordt gebruikt om DNS-queries om te leiden en DNS-spoofing uit te voeren.",
+        "class": "tool"
+    },
+    {
+        "ID": 16,
+        "word": "DNS Spoofing",
+        "description": "Een techniek waarbij aanvallers vervalste DNS-antwoordpakketten verzenden om verkeer om te leiden naar schadelijke sites.",
+        "class": "attack"
+    },
+    {
+        "ID": 17,
+        "word": "MAC Spoofing",
+        "description": "Een techniek waarbij de Media Access Control (MAC)-adres van een netwerkinterface wordt gewijzigd om de identiteit te verbergen.",
+        "class": "attack"
+    },
+    {
+        "ID": 18,
+        "word": "Ping of Death",
+        "description": "Een type denial-of-service-aanval waarbij een enorme hoeveelheid ping-verzoeken naar een systeem wordt verzonden om het te overbelasten.",
+        "class": "attack"
+    },
+    {
+        "ID": 19,
+        "word": "ARP Spoofing",
+        "description": "Een aanval waarbij een aanvaller zijn MAC-adres toewijst aan het IP-adres van een ander apparaat in het netwerk.",
+        "class": "attack"
+    },
+    {
+        "ID": 20,
+        "word": "Spoofing",
+        "description": "Een techniek waarbij een aanvaller zich voordoet als een andere gebruiker of apparaat om toegang te krijgen tot gegevens.",
+        "class": "attack"
+    },
+    {
+        "ID": 21,
+        "word": "MITM (Man-in-the-Middle)",
+        "description": "Een aanval waarbij de aanvaller zich tussen twee communicatiepartijen plaatst om gegevens te onderscheppen of te manipuleren.",
+        "class": "attack"
+    },
+    {
+        "ID": 22,
+        "word": "2FA (Two-Factor Authentication)",
+        "description": "Een beveiligingsmaatregel die twee vormen van identificatie vereist voor toegang tot een systeem.",
+        "class": "method"
+    },
+    {
+        "ID": 23,
+        "word": "MFA (Multi-Factor Authentication)",
+        "description": "Een beveiligingsmaatregel die meerdere vormen van identificatie vereist om toegang te krijgen tot een systeem.",
+        "class": "method"
+    },
+    {
+        "ID": 24,
+        "word": "Password Manager",
+        "description": "Een softwaretoepassing die wachtwoorden beheert en opslaat, zodat gebruikers sterke, unieke wachtwoorden voor elke service kunnen gebruiken.",
+        "class": "software"
+    },
+    {
+        "ID": 25,
+        "word": "Password",
+        "description": "Een geheime combinatie van letters, cijfers en symbolen die wordt gebruikt voor authenticatie.",
+        "class": "credential"
+    },
+    {
+        "ID": 26,
+        "word": "TLS (Transport Layer Security)",
+        "description": "Een protocol dat gegevensbeveiliging biedt tijdens de overdracht tussen netwerken.",
+        "class": "protocol"
+    },
+    {
+        "ID": 27,
+        "word": "HTTPS (Hypertext Transfer Protocol Secure)",
+        "description": "Een beveiligde versie van HTTP die encryptie gebruikt voor veilige communicatie op het web.",
+        "class": "protocol"
+    },
+    {
+        "ID": 28,
+        "word": "HTTP (Hypertext Transfer Protocol)",
+        "description": "Het protocol dat wordt gebruikt voor het verzenden van gegevens op het web.",
+        "class": "protocol"
+    },
+    {
+        "ID": 29,
+        "word": "TELNET",
+        "description": "Een netwerkprotocol dat wordt gebruikt om een commandoregelinterface voor een externe computer te openen.",
+        "class": "protocol"
+    },
+    {
+        "ID": 30,
+        "word": "SSH (Secure Shell)",
+        "description": "Een netwerkprotocol dat veilige toegang biedt tot een computer via een onbetrouwbaar netwerk.",
+        "class": "protocol"
+    },
+    {
+        "ID": 31,
+        "word": "Decryptie",
+        "description": "Het proces van het omzetten van versleutelde gegevens terug naar hun oorspronkelijke, leesbare vorm.",
+        "class": "process"
+    },
+    {
+        "ID": 32,
+        "word": "Certificaten",
+        "description": "Digitale documenten die de authenticiteit van een entiteit bevestigen en worden gebruikt in cryptografische systemen.",
+        "class": "security measure"
+    },
+    {
+        "ID": 33,
+        "word": "ISO270001",
+        "description": "Een internationale norm voor informatiebeveiliging die richtlijnen biedt voor het opzetten, implementeren, onderhouden en verbeteren van een informatiebeveiligingsmanagementsysteem.",
+        "class": "standard"
+    },
+    {
+        "ID": 34,
+        "word": "Session Hijacking",
+        "description": "Een aanval waarbij een aanvaller een actieve sessie overneemt om toegang te krijgen tot een systeem of gegevens.",
+        "class": "attack"
+    },
+    {
+        "ID": 35,
+        "word": "CIA (Confidentiality, Integrity, Availability)",
+        "description": "Een model voor het begrijpen van de belangrijkste principes van informatiebeveiliging.",
+        "class": "principle"
+    },
+    {
+        "ID": 36,
+        "word": "Hack The Box",
+        "description": "Een online platform dat training en uitdagingen biedt op het gebied van cybersecurity en penetratietesten.",
+        "class": "platform"
+    },
+    {
+        "ID": 37,
+        "word": "Nmap",
+        "description": "Een open-source netwerk scanner die wordt gebruikt om netwerken te verkennen en beveiligingsaudits uit te voeren.",
+        "class": "tool"
+    },
+    {
+        "ID": 38,
+        "word": "Kali Linux",
+        "description": "Een op Debian gebaseerde Linux-distributie die wordt gebruikt voor penetratietesten en beveiligingsaudits.",
+        "class": "software"
+    },
+    {
+        "ID": 39,
+        "word": "Wazuh",
+        "description": "Een open-source beveiligingsinformatie- en gebeurtenismanagement (SIEM) oplossing die helpt bij het monitoren en beveiligen van systemen.",
+        "class": "software"
+    },
+    {
+        "ID": 40,
+        "word": "Security Onion",
+        "description": "Een Linux-distributie die is ontworpen voor netwerkbeveiliging en incidentrespons.",
+        "class": "software"
+    },
+    {
+        "ID": 41,
+        "word": "DHCP Starvation",
+        "description": "Een aanval waarbij een aanvaller de DHCP-server overbelast door een groot aantal aanvragen te verzenden, waardoor legitieme gebruikers geen IP-adressen kunnen verkrijgen.",
+        "class": "attack"
+    },
+    {
+        "ID": 42,
+        "word": "Hydra",
+        "description": "Een tool die wordt gebruikt voor brute-force aanvallen op verschillende protocollen en services.",
+        "class": "tool"
+    },
+    {
+        "ID": 43,
+        "word": "Brute Force",
+        "description": "Een aanvalsmethode waarbij een aanvaller alle mogelijke combinaties van wachtwoorden of versleuteling probeert om toegang te krijgen tot een systeem.",
+        "class": "attack"
+    },
+    {
+        "ID": 44,
+        "word": "Dictionary Attack",
+        "description": "Een methode voor het kraken van wachtwoorden waarbij een lijst van veelvoorkomende wachtwoorden wordt gebruikt om toegang te krijgen tot een systeem.",
+        "class": "attack"
+    },
+    {
+        "ID": 45,
+        "word": "Red Team",
+        "description": "Een groep beveiligingsexperts die aanvallen simuleert om de beveiliging van een organisatie te testen.",
+        "class": "team"
+    },
+    {
+        "ID": 46,
+        "word": "Blue Team",
+        "description": "Een team dat verantwoordelijk is voor het verdedigen van een organisatie tegen cyberaanvallen.",
+        "class": "team"
+    },
+    {
+        "ID": 47,
+        "word": "Ethical Hacker",
+        "description": "Een persoon die met toestemming van een organisatie tests uitvoert om kwetsbaarheden te identificeren en te verhelpen.",
+        "class": "professional"
+    },
+    {
+        "ID": 48,
+        "word": "White Hat Hacker",
+        "description": "Een ethische hacker die beveiligingstests uitvoert om kwetsbaarheden te identificeren en deze met de organisatie te delen.",
+        "class": "professional"
+    },
+    {
+        "ID": 49,
+        "word": "Black Hat Hacker",
+        "description": "Een hacker die kwaadaardige bedoelingen heeft en zich bezighoudt met illegale activiteiten.",
+        "class": "professional"
+    },
+    {
+        "ID": 50,
+        "word": "Data Breach",
+        "description": "Een incident waarbij ongeoorloofde toegang wordt verkregen tot vertrouwelijke gegevens.",
+        "class": "incident"
+    },
+    {
+        "ID": 51,
+        "word": "CA (Certificate Authority)",
+        "description": "Een entiteit die digitale certificaten uitgeeft en de authenticiteit ervan waarborgt.",
+        "class": "authority"
+    },
+    {
+        "ID": 52,
+        "word": "Root CA",
+        "description": "De hoogste autoriteit binnen een public key infrastructure (PKI) die digitale certificaten uitgeeft.",
+        "class": "authority"
+    },
+    {
+        "ID": 53,
+        "word": "PKI (Public Key Infrastructure)",
+        "description": "Een systeem dat digitale certificaten en openbare sleutels beheert om veilige communicatie en gegevensoverdracht mogelijk te maken.",
+        "class": "infrastructure"
+    },
+    {
+        "ID": 54,
+        "word": "Worm",
+        "description": "Een zelfreproducerend computerprogramma dat zich verspreidt via netwerken zonder tussenkomst van een gebruiker.",
+        "class": "malware"
+    },
+    {
+        "ID": 55,
+        "word": "Social Engineering",
+        "description": "De kunst van het manipuleren van mensen om vertrouwelijke informatie prijs te geven.",
+        "class": "attack"
+    },
+    {
+        "ID": 56,
+        "word": "Zero-Day Exploit",
+        "description": "Een kwetsbaarheid in software die nog niet is gepatcht en waarop aanvallers zich kunnen richten.",
+        "class": "attack"
+    },
+    {
+        "ID": 57,
+        "word": "Cyberwarfare",
+        "description": "Het gebruik van digitale aanvallen door landen om schade toe te brengen aan de infrastructuur van een tegenstander.",
+        "class": "attack"
+    },
+    {
+        "ID": 58,
+        "word": "Ransomware",
+        "description": "Een type malware dat gegevens versleutelt en losgeld vraagt voor de decryptiesleutel.",
+        "class": "malware"
+    },
+    {
+        "ID": 59,
+        "word": "Keylogger",
+        "description": "Een type malware dat toetsaanslagen vastlegt om gevoelige informatie zoals wachtwoorden te stelen.",
+        "class": "malware"
+    },
+    {
+        "ID": 60,
+        "word": "Firewall",
+        "description": "Een beveiligingssysteem dat netwerkverkeer filtert en ongeautoriseerde toegang tot een netwerk voorkomt.",
+        "class": "security measure"
+    },
+    {
+        "ID": 61,
+        "word": "Phishing",
+        "description": "Een techniek waarbij aanvallers zich voordoen als legitieme entiteiten om slachtoffers te misleiden en gevoelige informatie te stelen.",
+        "class": "attack"
+    },
+    {
+        "ID": 62,
+        "word": "Spear Phishing",
+        "description": "Een gerichte vorm van phishing die zich richt op specifieke individuen of organisaties, vaak met gepersonaliseerde berichten.",
+        "class": "attack"
+    },
+    {
+        "ID": 63,
+        "word": "Vishing (Voice Phishing)",
+        "description": "Een vorm van phishing waarbij aanvallers via telefoon proberen persoonlijke informatie of financiële gegevens van slachtoffers te verkrijgen.",
+        "class": "attack"
+    },
+    {
+        "ID": 64,
+        "word": "Credential Stuffing",
+        "description": "Een aanval waarbij een aanvaller eerder gelekte gebruikersnamen en wachtwoorden gebruikt om toegang te krijgen tot andere accounts.",
+        "class": "attack"
+    },
+    {
+        "ID": 65,
+        "word": "DDoS (Distributed Denial of Service)",
+        "description": "Een aanval waarbij meerdere systemen worden gebruikt om een doelwit te overbelasten, waardoor legitieme gebruikers geen toegang kunnen krijgen.",
+        "class": "attack"
+    },
+    {
+        "ID": 66,
+        "word": "Cryptojacking",
+        "description": "Een aanval waarbij aanvallers de computerbronnen van een slachtoffer gebruiken om cryptocurrency te minen zonder hun toestemming.",
+        "class": "attack"
+    },
+    {
+        "ID": 67,
+        "word": "Ad Fraud",
+        "description": "Fraude die wordt gepleegd met online advertenties, meestal door valse klikken of weergaven te genereren.",
+        "class": "attack"
+    },
+    {
+        "ID": 68,
+        "word": "SQL Injection",
+        "description": "Een type aanval waarbij een aanvaller kwaadaardige SQL-code invoert in invoervelden om toegang te krijgen tot databases.",
+        "class": "attack"
+    },
+    {
+        "ID": 69,
+        "word": "Cross-Site Scripting (XSS)",
+        "description": "Een kwetsbaarheid waarbij aanvallers kwaadaardige scripts in webpagina's injecteren die door andere gebruikers worden bezocht.",
+        "class": "attack"
+    },
+    {
+        "ID": 70,
+        "word": "Cross-Site Request Forgery (CSRF)",
+        "description": "Een aanval waarbij een aanvaller een gebruiker dwingt om een ongewenste actie uit te voeren op een andere site waar ze zijn ingelogd.",
+        "class": "attack"
+    },
+    {
+        "ID": 71,
+        "word": "Session Fixation",
+        "description": "Een aanval waarbij een aanvaller een slachtoffer dwingt om een bepaalde sessie-ID te gebruiken, zodat ze die sessie kunnen kapen.",
+        "class": "attack"
+    },
+    {
+        "ID": 72,
+        "word": "Network Sniffing",
+        "description": "Het afluisteren van netwerkverkeer om gevoelige informatie te onderscheppen.",
+        "class": "attack"
+    },
+    {
+        "ID": 73,
+        "word": "Privilege Escalation",
+        "description": "Een aanval waarbij een aanvaller zijn rechten of privileges verhoogt om toegang te krijgen tot beveiligde delen van een systeem.",
+        "class": "attack"
+    },
+    {
+        "ID": 74,
+        "word": "Rogue Software",
+        "description": "Software die zich voordoet als legitieme applicaties, maar in werkelijkheid kwaadaardig is.",
+        "class": "malware"
+    },
+    {
+        "ID": 75,
+        "word": "Trojan Horse",
+        "description": "Een type malware dat zich voordoet als een legitieme toepassing om toegang te krijgen tot systemen.",
+        "class": "malware"
+    },
+    {
+        "ID": 76,
+        "word": "Patch Management",
+        "description": "Het proces van het beheren van patches en updates voor software om beveiligingslekken te verhelpen.",
+        "class": "process"
+    },
+    {
+        "ID": 77,
+        "word": "Security Audit",
+        "description": "Een evaluatie van de beveiligingsstatus van een organisatie om kwetsbaarheden en risico's te identificeren.",
+        "class": "process"
+    },
+    {
+        "ID": 78,
+        "word": "Incident Response Plan",
+        "description": "Een document dat de procedures beschrijft voor het omgaan met beveiligingsincidenten.",
+        "class": "policy"
+    },
+    {
+        "ID": 79,
+        "word": "Risk Assessment",
+        "description": "Het proces van het identificeren, analyseren en evalueren van risico's die een organisatie kunnen bedreigen.",
+        "class": "process"
+    },
+    {
+        "ID": 80,
+        "word": "Threat Intelligence",
+        "description": "Gegevens en informatie over potentiële of actuele cyberdreigingen die organisaties helpen bij hun beveiliging.",
+        "class": "process"
+    },
+    {
+        "ID": 81,
+        "word": "Forensics",
+        "description": "De wetenschap van het verzamelen, analyseren en presenteren van digitale gegevens in een juridische context.",
+        "class": "process"
+    },
+    {
+        "ID": 82,
+        "word": "Cybersecurity Framework",
+        "description": "Een gestructureerde set van richtlijnen en best practices die organisaties helpt bij het beheren en verbeteren van hun cybersecurity-beleid.",
+        "class": "framework"
+    },
+    {
+        "ID": 83,
+        "word": "Web Application Firewall (WAF)",
+        "description": "Een beveiligingsoplossing die webtoepassingen beschermt tegen aanvallen zoals SQL-injecties en cross-site scripting.",
+        "class": "security measure"
+    },
+    {
+        "ID": 84,
+        "word": "Cybersecurity Policy",
+        "description": "Een formeel document dat de richtlijnen en procedures van een organisatie voor informatiebeveiliging beschrijft.",
+        "class": "policy"
+    },
+    {
+        "ID": 85,
+        "word": "Data Breach Notification",
+        "description": "De wettelijke vereiste om individuen op de hoogte te stellen wanneer hun persoonlijke gegevens zijn blootgesteld aan een beveiligingsinbreuk.",
+        "class": "policy"
+    },
+    {
+        "ID": 86,
+        "word": "Network Traffic Analysis",
+        "description": "Het monitoren en analyseren van netwerkverkeer om verdachte activiteiten en beveiligingsproblemen te identificeren.",
+        "class": "process"
+    },
+    {
+        "ID": 87,
+        "word": "Access Control List (ACL)",
+        "description": "Een lijst van regels die bepaalt welke gebruikers of systemen toegang hebben tot specifieke bronnen binnen een netwerk.",
+        "class": "security measure"
+    },
+    {
+        "ID": 88,
+        "word": "Malicious Insider",
+        "description": "Een werknemer of persoon met toegang tot een organisatie die opzettelijk schade aanricht of vertrouwelijke informatie steelt.",
+        "class": "threat"
+    },
+    {
+        "ID": 89,
+        "word": "Data Encryption",
+        "description": "Het proces van het omzetten van gegevens in een gecodeerde vorm om deze te beschermen tegen ongeoorloofde toegang.",
+        "class": "process"
+    },
+    {
+        "ID": 90,
+        "word": "Threat Hunting",
+        "description": "Het proactief zoeken naar verdachte activiteiten of bedreigingen in een netwerk voordat deze een beveiligingsincident veroorzaken.",
+        "class": "practice"
+    },
+    {
+        "ID": 91,
+        "word": "Patch Tuesday",
+        "description": "De tweede dinsdag van de maand waarop Microsoft beveiligingsupdates en patches voor zijn producten vrijgeeft.",
+        "class": "event"
+    },
+    {
+        "ID": 92,
+        "word": "Secure Sockets Layer (SSL)",
+        "description": "Een standaardprotocol voor het beveiligen van gegevensoverdracht over netwerken door encryptie, nu vaak vervangen door TLS.",
+        "class": "protocol"
+    },
+    {
+        "ID": 93,
+        "word": "Transport Layer Security (TLS)",
+        "description": "Een protocol dat gegevensbeveiliging biedt tijdens de overdracht tussen netwerken, een verbeterde versie van SSL.",
+        "class": "protocol"
+    },
+    {
+        "ID": 94,
+        "word": "Cyber Hygiene",
+        "description": "De praktijk van goede beveiligingsgewoonten en -procedures om de kans op cyberaanvallen te minimaliseren.",
+        "class": "practice"
+    },
+    {
+        "ID": 95,
+        "word": "Token-Based Authentication",
+        "description": "Een authenticatiemethode waarbij gebruikers een token ontvangen om toegang te krijgen tot een systeem, in plaats van een wachtwoord.",
+        "class": "method"
+    },
+    {
+        "ID": 96,
+        "word": "Network Sniffing",
+        "description": "Het afluisteren van netwerkverkeer om gevoelige informatie te onderscheppen.",
+        "class": "attack"
+    },
+    {
+        "ID": 97,
+        "word": "Rogue Software",
+        "description": "Software die zich voordoet als legitieme applicaties, maar in werkelijkheid kwaadaardig is.",
+        "class": "malware"
+    }
+]
