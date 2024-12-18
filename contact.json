@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "naam": "Jansen",
+      "voornaam": "Pieter",
+      "adres": "Kerkstraat 12, 1234 AB Amsterdam",
+      "opmerkingen": "Houdt van fietsen."
+    },
+    {
+      "id": 2,
+      "naam": "De Vries",
+      "voornaam": "Anna",
+      "adres": "Lindelaan 34, 5678 CD Rotterdam",
+      "opmerkingen": "Werkcollega."
+    },
+    {
+      "id": 3,
+      "naam": "Bakker",
+      "voornaam": "Sophie",
+      "adres": "Bloemenweg 56, 9101 EF Utrecht",
+      "opmerkingen": "Familielid."
+    },
+    {
+      "id": 4,
+      "naam": "Smits",
+      "voornaam": "Tom",
+      "adres": "Stationsstraat 78, 1122 GH Den Haag",
+      "opmerkingen": "Vriend van de sportclub."
+    }
+  ]
